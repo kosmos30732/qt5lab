@@ -1,0 +1,5 @@
+Variable name, Button text, x, y, width, height
+button_foo_, Button Foo, 10, 50, 130, 20
+button_bar_, Button Bar, 100, 150, 100, 35
+button_baz_, Button Baz, 10, 250, 150, 50
+bazligth_, Bazligther, 10, 350, 100, 100

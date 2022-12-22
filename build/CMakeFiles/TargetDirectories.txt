@@ -1,0 +1,8 @@
+/home/user/tmp/kk/build/CMakeFiles/static.dir
+/home/user/tmp/kk/build/CMakeFiles/dynamic.dir
+/home/user/tmp/kk/build/CMakeFiles/b.out.dir
+/home/user/tmp/kk/build/CMakeFiles/edit_cache.dir
+/home/user/tmp/kk/build/CMakeFiles/rebuild_cache.dir
+/home/user/tmp/kk/build/CMakeFiles/static_autogen.dir
+/home/user/tmp/kk/build/CMakeFiles/dynamic_autogen.dir
+/home/user/tmp/kk/build/CMakeFiles/b.out_autogen.dir

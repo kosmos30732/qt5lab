@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstatic.a CMakeFiles/static.dir/static_autogen/mocs_compilation.cpp.o CMakeFiles/static.dir/src/static.cpp.o
+/usr/bin/ranlib libstatic.a
